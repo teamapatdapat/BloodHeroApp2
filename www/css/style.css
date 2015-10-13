@@ -1,0 +1,31 @@
+.description{
+	float: center;
+
+
+	}/* Empty. Add your own CSS if you like */
+
+#img{
+	background-image: url('../img/love.jpg');
+	background-repeat: no-repeat;
+	background-size: 270%;
+}
+#but{
+	margin-right: 50px;
+	margin-top: 0px;
+
+}
+#no{
+	margin-left: 300px;
+}
+#pic{
+	height:25px;
+	width: 25px;
+	color:red;
+
+}
+#mar{
+	margin-top: 10px;
+}
+#text{
+	color:red;
+}
